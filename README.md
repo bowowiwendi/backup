@@ -6,4 +6,5 @@
 #CHANGE BOT TOKEN N ID
 <pre><code>nano /root/DigitalOcean-TeleBot-main/config.json</code></pre>
 #RUN
-<pre><code>python3 /root/DigitalOcean-TeleBot-main/main.py</code></pre>
+<pre><code>cd DigitalOcean-TeleBot-main</code></pre>
+<pre><code>python3 main.py</code></pre>
